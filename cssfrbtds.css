@@ -4313,7 +4313,7 @@ html:not(.app-focused)
 	text-decoration: none !important;
 }
 .lookLink-13iF2K:hover .contents-3NembX {
-	background-image: 'https://i.imgur.com/lHtT98z.png' !important;
+	background-image: url(https://i.imgur.com/lHtT98z.png) !important;
 }
 .lookLink-13iF2K:disabled {
 	--button-background: transparent;
